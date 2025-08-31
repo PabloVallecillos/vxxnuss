@@ -122,8 +122,8 @@ export default function HomePage() {
         <directionalLight position={[5, 5, 5]} intensity={0.8} color="#fbbf24" castShadow />
         <pointLight position={[-5, 2, 2]} intensity={0.5} color="#ec4899" />
 
-        {/* Entorno estrellado */}
-        <Environment preset="night" />
+        {/* Entorno estrellado con HDRI local para producción */}
+        <Environment files="/dikhololo_night_1k.hdr" background blur={0.5} />
 
         {/* Modelos 3D */}
         <CrescentMoonModel />

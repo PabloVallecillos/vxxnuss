@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crescent Moon
+* source:	https://sketchfab.com/3d-models/crescent-moon-47b101a0bcc4474cbac0c5e16591fad0
+* author:	you.likelihood (https://sketchfab.com/you.likelihood)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crescent Moon" (https://sketchfab.com/3d-models/crescent-moon-47b101a0bcc4474cbac0c5e16591fad0) by you.likelihood (https://sketchfab.com/you.likelihood) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
